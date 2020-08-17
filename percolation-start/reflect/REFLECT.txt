@@ -1,0 +1,7 @@
+Name: Doruk Doganay
+NetID: dsd20
+Hours Spent: 11
+Consulted With: NA
+Resources Used: Stackoverflow for some small bugs and couldn’t figure out how to implement some codes
+Difficulty level: 5 out of 5
+Impressions: Hard assignment, overall really fun. However, it was very hard to understand the concepts and the logic behind the whole assignment. I am still a little confused about it.
